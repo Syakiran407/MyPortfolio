@@ -150,6 +150,7 @@ input:checked + .slider:before {
 
 .aboutImage {
 	max-width: 100%;
+	border-radius: 50%;
 }
 
 .skillsSection,
